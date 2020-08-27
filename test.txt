@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 add text fdssdfs
 
 
 line 4
-=======
 edit feature-10987654
->>>>>>> feature-1
