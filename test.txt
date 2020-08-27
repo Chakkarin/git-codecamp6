@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 add text fdssdfs
 
 
@@ -18,3 +19,6 @@ edit feature-1
 =======
 edit feature-123456
 >>>>>>> e79e629... test123
+=======
+edit feature-10987654
+>>>>>>> 96aca4a... test0987654
