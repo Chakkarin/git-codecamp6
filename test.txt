@@ -11,4 +11,9 @@ add line 10 ----
 
 add line 12----
 
+<<<<<<< HEAD
 line 14
+=======
+
+add line 15
+>>>>>>> feature-2
