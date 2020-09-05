@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> e92319f... test
 add text fdssdfs
@@ -9,10 +10,16 @@ add text fdssdfs
 
 line 4
 <<<<<<< HEAD
+=======
+edit feature-10987654
+
+
+>>>>>>> feature-1
 
 
 
 
+<<<<<<< HEAD
 add line 9
 add line 10
 
@@ -29,3 +36,10 @@ edit feature-10987654
 =======
 edit feature-10987654
 >>>>>>> e92319f... test
+=======
+line 8
+
+line 10
+
+line 12
+>>>>>>> feature-1
