@@ -2,7 +2,6 @@ add text fdssdfs
 
 
 line 4
-<<<<<<< HEAD
 
 
 
@@ -11,9 +10,3 @@ add line 9
 add line 10
 
 add line 12
-=======
-edit feature-10987654
->>>>>>> 96aca4a... test0987654
-=======
-edit feature-10987654
->>>>>>> e92319f... test
